@@ -1,0 +1,76 @@
+body {
+    color: #282425;
+    background-color: #fff1e6;
+    font-family: Raleway, sans-serif;
+    font-size: 20px;
+    line-height: 1,5;
+    margin: 0;}
+
+
+h1,h2,h3
+    {font-family: "Playfair Display", serif;
+    font-style: italic;
+    }
+h1{ font-size: 80px;
+    text-align: center;
+        color: white;
+    margin: 0;
+    text-shadow: 0 3px 10px rgba(red, green, blue, alpha);}
+
+h2{font-size: 48px;
+    text-align: center;
+    margin-top: 0;}
+
+h3{font-size: 24px;
+    margin-top: 36px;}
+
+a{font-style: italic;}
+
+.fotogalerie{background-color: #f9e3d0;}
+
+.kontakt{background-color: #f9e3d0;}
+
+.paticka{background-color: #282425;
+text-align: center;
+color: white;}
+
+.foto-omne {width: 200px; height: 200px; border-radius: 50%;
+    float: left; margin: 0 30px 30px 0;}
+
+.fotogalerie img {width: 32%;}
+
+.foto-pruvodce {width: 300px;border-radius: 0 50px 50px 50px;
+            float: right; margin: 0 0 30px 30px;}
+
+
+.foto-kontakt {width: 250px;border-radius: 50px 0 50px 50px;
+            float: left; margin: 0 30px 30px 0;}
+
+table {border-spacing: 0;}
+
+
+.fotogalerie img {border: 2px solid #282425;
+border-radius: 10px;}
+
+th, td {border-bottom: 1px solid black;
+        text-align: left;
+    padding: 10px 0;
+    }
+
+.cena {text-align: right;
+    padding-left: 50px;}
+
+section {padding: 50px 15%;
+    overflow: auto;}
+
+        .paticka {padding-top: 10px;
+                padding-bottom: 10px;
+            padding-left: 0;
+            padding-right: 0;}
+
+
+.hlavicka {background-image: url(obrázky/šest.jpg);
+            padding: 100px 30px;}
+
+
+        
